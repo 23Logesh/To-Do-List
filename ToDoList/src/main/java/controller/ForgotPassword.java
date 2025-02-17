@@ -50,7 +50,7 @@ public class ForgotPassword extends HttpServlet{
 		            @Override
 		            protected PasswordAuthentication getPasswordAuthentication() {
 		                // Replace with your SMTP username and password
-		                return new PasswordAuthentication("logeshwaran23072003@gmail.com", "fsggxlwzolrmkisx");
+		                return new PasswordAuthentication("logeshwaran23072003@gmail.com", "lcib cisv aboa eidm");
 		            }
 		        });
 		        
